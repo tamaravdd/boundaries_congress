@@ -1,0 +1,2 @@
+# Requires https://github.com/artemyk/congressional-record to be installed
+# Download it and install with python3 setup.py develop
