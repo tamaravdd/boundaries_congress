@@ -1,2 +1,8 @@
 # Requires https://github.com/artemyk/congressional-record to be installed
-# Download it and install with python3 setup.py develop
+# Download it and install with pip3 install https://github.com/artemyk/congressional-record/archive/refs/heads/master.zip
+https://github.com/artemyk/congressional-record/archive/refs/heads/master.zip
+edlib
+pandas
+tables
+urllib3
+pyOpenSSL
